@@ -472,3 +472,32 @@ p {
     padding-left: 5px;
 }
 
+
+.footer{
+    background-color: #313454;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer__text {
+    text-align: center;
+    font-size: 14px;
+    color: #808080;
+    line-height: 1.5;
+}
+
+span {
+    color: white;
+}
+
+.cat {
+    height: 30px;
+    transform: translate3d(10px, 10px, 0);
+    border: 2px grey solid;
+    border-radius: 3px;
+}
+
+
+
+
+
