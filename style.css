@@ -126,7 +126,7 @@ p {
 
     border-radius: 3px;
 
-    font-style: 13px;
+    font-size: 13px;
     font-weight: 600;
     color: white;
     text-transform: uppercase;
@@ -250,7 +250,6 @@ p {
 
 
 /* --------------Team -----------------*/
-
 .team {
     margin: 100px 0 70px;
 }
